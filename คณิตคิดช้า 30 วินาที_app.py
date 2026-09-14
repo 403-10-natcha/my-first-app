@@ -189,19 +189,19 @@ ans5 = st.text_input(
     "ข้อ 5: (25^2)+41=?",
     value=st.session_state.ans5_val,
 ans6 = st.text_input(
-    "ข้อ 6:666+335=?",
+    "ข้อ 6: 666+335=?",
     value=st.session_state.ans6_val,
 )
 ans7 = st.text_input(
-    "ข้อ 7:(8*9)/2=?",
+    "ข้อ 7: (8*9)/2=?",
     value=st.session_state.ans7_val,
 )
 ans8 = st.text_input(
-    "ข้อ 8:65/13=?",
+    "ข้อ 8: 65/13=?",
     value=st.session_state.ans8_val,
  )
 ans9 = st.text_input(
-    "ข้อ 9:(25^2)/5=?",
+    "ข้อ 9: (25^2)/5=?",
     value=st.session_state.ans9_val,
 )
 ans10 = st.text_input(
